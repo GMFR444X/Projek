@@ -1,0 +1,5 @@
+[
+    {"id": 2072194990, "plan": "Bronze", "max_time": 90, "cooldown": 139},
+    {"id": 5945548890, "plan": "Premium", "max_time": 120, "cooldown": 150},
+    {"id": 345678, "plan": "VVIP", "max_time": 300, "cooldown": 0}
+]
